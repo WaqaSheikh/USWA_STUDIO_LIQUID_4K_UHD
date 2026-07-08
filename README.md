@@ -44,4 +44,4 @@ This project is for portfolio display purposes. The video assets are licensed fo
 
 ## 📫 Contact
 - **Email**: uswastudiooffical@gmail.com
-- **Portfolio**: [uswastudio.github.io](https://uswastudio.github.io)
+- **Portfolio**: [uswastudio.github.io](https://waqasheikh.github.io/USWA_STUDIO_Liquid_4K_UHD/)
