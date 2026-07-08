@@ -43,5 +43,5 @@ This is the official portfolio for **USWA Studio**. It showcases **12 premium li
 This project is for portfolio display purposes. The video assets are licensed for commercial use, while the website code is open-source.
 
 ## 📫 Contact
-- **Email**: hello@uswastudio.com
+- **Email**: uswastudiooffical@gmail.com
 - **Portfolio**: [uswastudio.github.io](https://uswastudio.github.io)
