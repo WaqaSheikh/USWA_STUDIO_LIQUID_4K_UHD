@@ -17,7 +17,7 @@
 ## 🚀 About The Portfolio
 This is the official portfolio for **USWA Studio**. It showcases **12 premium liquid motion backgrounds** rendered in 4K UHD, 60 FPS. These assets are designed for content creators, video editors, and production houses.
 
-> 🌐 **Live Demo**: [View Portfolio](https://waqasheikh.github.io/USWA_STUDIO_Liquid_4K_UHD/) *(Replace with your actual link)*
+> 🌐 **Live Demo**: [View Portfolio]https://waqasheikh.github.io/USWA_STUDIO_LIQUID_4K_UHD/)
 
 ## ✨ Features
 - ✅ **12 Unique Styles** (Aurora, Lava, Cyber Pink, Galaxy, etc.)
@@ -44,4 +44,4 @@ This project is for portfolio display purposes. The video assets are licensed fo
 
 ## 📫 Contact
 - **Email**: uswastudiooffical@gmail.com
-- **Portfolio**: [uswastudio.github.io](https://waqasheikh.github.io/USWA_STUDIO_Liquid_4K_UHD/)
+- **Portfolio**: [uswastudio.github.io](https://waqasheikh.github.io/USWA_STUDIO_LIQUID_4K_UHD/)
